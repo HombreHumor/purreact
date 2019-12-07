@@ -1,0 +1,16 @@
+{
+  "name": "purreact",
+  "version": "0.0.1",
+  "description": "CLI application for react apps",
+  "main": "index.js",
+  "author": "Igor Kramar <hombrehumor@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "purreact": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^4.0.1",
+    "execa": "^3.4.0",
+    "listr": "^0.14.3"
+  }
+}
